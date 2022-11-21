@@ -1,6 +1,6 @@
 
 
-Projekti on kansio, joka sisältää jotain tiedostoja. Näissä tiedostoissa voi esimerkiksi olla koodia niin, 
+Projekti voi olla kansio, joka sisältää jotain tiedostoja. Näissä tiedostoissa voi esimerkiksi olla koodia niin, 
 että yhdessä projekti muodostaa monimutkaisen ongelman. Kansiosta saa luotua Git-projektin ajamalla 
 komennon git init kyseisen kansion sisällä. Näin on tehtävä, jotta kansion sisällä voi ajaa git-komentoja. 
-Seurauksena kansioon syntyy alikansio .git, johon git säilöö tietoa kyseisestä projektista
+Seurauksena kansioon syntyy alikansio .git, johon git säilöö tietoa kyseisestä projektista.
